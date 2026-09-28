@@ -1,0 +1,6 @@
+{
+  "name": "ChatNeural",
+  "description": "Minimalist, high-performance dark-mode chatbot powered by ChatAnywhere proxy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
